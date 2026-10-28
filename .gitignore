@@ -1,0 +1,8 @@
+.pio/
+.vscode/
+.code-workspace
+.toml
+.json
+.tmp
+.bak
+main_backup.cpp
